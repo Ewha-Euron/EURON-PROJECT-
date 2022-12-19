@@ -1,4 +1,6 @@
-🏃‍♀️ EURON PROJECT Repository 
+# 🏃‍♀️ EURON PROJECT Repository 
+
+<br/><br/> 
 
 
 ## 1기 
@@ -11,7 +13,7 @@
 
 
 
-
+<br/><br/> 
 
 
 ## 2기 
@@ -30,5 +32,6 @@
 * [음반 순위 추이 예측시스템](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/d636984a259e1865fa64edfbecb6ceb973e089bc/2%EA%B8%B0/%5BDA%5D%20%EC%9D%8C%EB%B0%98%20%EC%88%9C%EC%9C%84%20%EC%B6%94%EC%9D%B4%20%EC%98%88%EC%B8%A1%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 
+<br/><br/> 
 
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
