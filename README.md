@@ -1,4 +1,4 @@
-# 🏃‍♀️ EURON PROJECT Repository 
+# 🏃‍♀️ EURON Project Repository 
 
 엘텍공과대학 소속 AI/DS 학술 동아리 EURON 에서 진행한 프로젝트 아카이빙 레포지토리입니다.   
 
