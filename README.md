@@ -1,4 +1,5 @@
-# EURON-PROJECT
+🏃‍♀️ EURON PROJECT Repository 
+
 
 ## 1기 
 
@@ -7,6 +8,9 @@
 ② [리디북스 로맨스 웹소설 데이터를 사용한 추천시스템 구현](https://github.com/Ewha-Euron/1th_D.A.SISTERS)
 
 ③ [Abstractive summarization 기법을 활용한 하루 일기 요약 어플리케이션 구현](https://github.com/Ewha-Euron/1th_Adobby_SpringBoot)
+
+
+
 
 
 
@@ -24,3 +28,7 @@
 ③ Data Analysis 
 * [신용정보 대출연체 조사](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/b1249cdd025ee587ade49ab6e566dd7c69461da7/2%EA%B8%B0/%5BDA%5D%20%EA%B0%9C%EC%9D%B8%EC%8B%A0%EC%9A%A9%EC%A0%95%EB%B3%B4%EB%A1%9C%20%EB%8C%80%EC%B6%9C_%EC%97%B0%EC%B2%B4%20%EC%A1%B0%EC%82%AC.pdf)
 * [음반 순위 추이 예측시스템](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/d636984a259e1865fa64edfbecb6ceb973e089bc/2%EA%B8%B0/%5BDA%5D%20%EC%9D%8C%EB%B0%98%20%EC%88%9C%EC%9C%84%20%EC%B6%94%EC%9D%B4%20%EC%98%88%EC%B8%A1%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+
+
+
+※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
