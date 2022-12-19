@@ -2,6 +2,12 @@
 
 ## 1기 
 
+① [GAN을 이용한 AMZN 주식 퀀트 예측 웹 서비스](https://github.com/Ewha-Euron/1st_QUEENT)
+
+② [리디북스 로맨스 웹소설 데이터를 사용한 추천시스템 구현](https://github.com/Ewha-Euron/1th_D.A.SISTERS)
+
+③ [Abstractive summarization 기법을 활용한 하루 일기 요약 어플리케이션 구현](https://github.com/Ewha-Euron/1th_Adobby_SpringBoot)
+
 
 
 ## 2기 
