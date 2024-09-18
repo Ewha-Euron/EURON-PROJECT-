@@ -35,4 +35,31 @@
 
 <br/><br/> 
 
+## 5기
+① 입문/초급
+* [유런도서관_도서 추천 알고리즘 구현](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%9E%85%EB%AC%B8%EC%B4%88%EA%B8%89%5D%20%EC%9C%A0%EB%9F%B0%EB%8F%84%EC%84%9C%EA%B4%80.pdf)
+* [무사고기원_대구 교통사고 피해 예측 프로젝트](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%9E%85%EB%AC%B8%EC%B4%88%EA%B8%89%5D%20%EB%AC%B4%EC%82%AC%EA%B3%A0%EA%B8%B0%EC%9B%90.pdf)
+* [버스타요_서울특별시 퇴근시간 승차인원 예측 프로젝트](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%9E%85%EB%AC%B8%EC%B4%88%EA%B8%89%5D%20%EB%B2%84%EC%8A%A4%ED%83%80%EC%9A%94.pdf)
+
+② 중급
+* [유린이들_도배 하자 질의 응답 처리 알고리즘 구현](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%EC%9C%A0%EB%A6%B0%EC%9D%B4%EB%93%A4.pdf)
+* [하자하자!_DACON 한솔데코 시즌2 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%ED%95%98%EC%9E%90%ED%95%98%EC%9E%90!.pdf)
+* [ENZI_효소 기질 데이터 분류 알고리즘 구현](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20ENZI.pdf)
+* [우주_정부 기관 RAG 서비스 개발](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%EC%9A%B0%EC%A3%BC.pdf)
+* [건말천간_말의 건강 결과 예측 프로젝트](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%EA%B1%B4%EB%A7%90%EC%B2%9C%EA%B0%84.pdf)
+
+③ 고급/심화
+* [Hmm2Song_음악 검색 알고리즘 구현](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%EC%8B%AC%ED%99%94%5D%20Hmm2Song.pdf)
+* [Multi-Search_여행지 추천 및 검색 알고리즘 개발](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%EC%8B%AC%ED%99%94%5D%20Multi-Search.pdf)
+* [NLP 뽀개기_AI 생성 텍스트 탐지 알고리즘](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/5%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%EC%8B%AC%ED%99%94%5D%20NLP%EB%BD%80%EA%B0%9C%EA%B8%B0.pdf)
+
+
+<br/><br/> 
+
+## 6기
+① 초급
+
+
+
+<br/>
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
