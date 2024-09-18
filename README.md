@@ -58,8 +58,19 @@
 
 ## 6기
 ① 초급
+* [비오는 서울역_쇼핑몰 리뷰 평점 분류 AI 해커톤](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%B4%88%EA%B8%89%5D%20%EB%B9%84%EC%98%A4%EB%8A%94%20%EC%84%9C%EC%9A%B8%EC%97%AD.pdf)
+* [KBO_KBO 타자 OPS 예측 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%B4%88%EA%B8%89%5D%20KBO.pdf)
+* [현대AI_HD현대 AI Challenge](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%B4%88%EA%B8%89%5D%20%ED%98%84%EB%8C%80AI.pdf)
 
+② 중급
+* [이슐랭_네이버 맛집 리뷰 데이터 키워드 다중분류 프로젝트](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%EC%9D%B4%EC%8A%90%EB%9E%AD.pdf)
+* [학교 공지사항 분류 모델 개발](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%ED%95%99%EA%B5%90.pdf)
+* [CodeCJSY_코드 유사성 판단 AI 알고리즘 개발](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20CodeCJSY.pdf)
+* [탐지하조_반도체 소자 이미지 이상 탐지](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EC%A4%91%EA%B8%89%5D%20%ED%83%90%EC%A7%80%ED%95%98%EC%A1%B0.pdf)
 
+③ 고급
+* [BLIP4Fashion_Fashion Captioning with BLIP Fine-tuning](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%5D%20BLIP4Fashion.pdf)
+* [캐글_피부암 탐지 이진 분류 Kaggle 대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%5D%20%EC%BA%90%EA%B8%80.pdf)
 
-<br/>
+<br/><br/> 
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
