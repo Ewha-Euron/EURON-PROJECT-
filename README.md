@@ -74,18 +74,18 @@
 
 ## 7기
 ① ML
-* [paylytics_데이터 사이언스 직군의 연봉 결정 요인](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BML%5D%20paylytics_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3%20%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%87%E1%85%A9%E1%86%BC%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB.pdf)
-* [제주삼다수_퇴근시간 버스 승차인원 예측](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BML%5D%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A1%E1%84%89%E1%85%AE_%E1%84%90%E1%85%AC%E1%84%80%E1%85%B3%E1%86%AB%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%87%E1%85%A5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AB%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8.pdf)
+* [paylytics_데이터 사이언스 직군의 연봉 결정 요인](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BML%5D%20paylytics_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EC%A7%81%EA%B5%B0%EC%9D%98%20%EC%97%B0%EB%B4%89%20%EA%B2%B0%EC%A0%95%20%EC%9A%94%EC%9D%B8.pdf)
+* [제주삼다수_퇴근시간 버스 승차인원 예측](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BML%5D%20%EC%A0%9C%EC%A3%BC%EC%82%BC%EB%8B%A4%EC%88%98_%ED%87%B4%EA%B7%BC%EC%8B%9C%EA%B0%84%20%EB%B2%84%EC%8A%A4%20%EC%8A%B9%EC%B0%A8%EC%9D%B8%EC%9B%90%20%EC%98%88%EC%B8%A1.pdf)
 
 ② DL
-* [에피스윈_]()
-* [CTRonauts_웹 광고 클릭률 예측 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BDL%5D%20CTRonauts_%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AA%E1%86%BC%E1%84%80%E1%85%A9%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.pdf)
-* [Decipherer_난독화된 한글 리뷰 복원 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BDL%5D%20Decipherer_%E1%84%82%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%83%E1%85%AC%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.pdf)
+* [에피스윈_H&E 염색된 조직 이미지로부터 유전자 발현 예측](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BDL%5D%20%EC%97%90%ED%94%BC%EC%8A%A4%EC%9C%88_H%26E%20%EC%97%BC%EC%83%89%EB%90%9C%20%EC%A1%B0%EC%A7%81%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9C%A0%EC%A0%84%EC%9E%90%20%EB%B0%9C%ED%98%84%20%EC%98%88%EC%B8%A1.pdf)
+* [CTRonauts_웹 광고 클릭률 예측 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BDL%5D%20CTRonauts_%EC%9B%B9%20%EA%B4%91%EA%B3%A0%20%ED%81%B4%EB%A6%AD%EB%A5%A0%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf)
+* [Decipherer_난독화된 한글 리뷰 복원 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BDL%5D%20Decipherer_%EB%82%9C%EB%8F%85%ED%99%94%EB%90%9C%20%ED%95%9C%EA%B8%80%20%EB%A6%AC%EB%B7%B0%20%EB%B3%B5%EC%9B%90%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf)
 
 ③ Research
-* [WhyFi_금융 용어 알리미](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20WhyFi_%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%20%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%A5%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5.pdf)
-* [ROCstars_ISIC 2024-Skin Cancer Detection with 3D-TBP](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20ROCstars_ISIC%202024-Skin%20Cancer%20Detection%20with%203D-TBP.pdf)
-* [테일즈러너_이미지 기반 동화 생성](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%B3%E1%84%85%E1%85%A5%E1%84%82%E1%85%A5_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.pdf)
+* [WhyFi_금융 용어 알리미](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BResearch%5D%20WhyFi_%EA%B8%88%EC%9C%B5%20%EC%9A%A9%EC%96%B4%20%EC%95%8C%EB%A6%AC%EB%AF%B8.pdf)
+* [ROCstars_ISIC 2024-Skin Cancer Detection with 3D-TBP](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BResearch%5D%20ROCstars_ISIC%202024-Skin%20Cancer%20Detection%20with%203D-TBP.pdf)
+* [테일즈러너_이미지 기반 동화 생성](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BResearch%5D%20%ED%85%8C%EC%9D%BC%EC%A6%88%EB%9F%AC%EB%84%88_%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EA%B8%B0%EB%B0%98%20%EB%8F%99%ED%99%94%20%EC%83%9D%EC%84%B1.pdf)
 
 <br/><br/> 
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
