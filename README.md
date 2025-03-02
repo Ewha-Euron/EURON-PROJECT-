@@ -72,5 +72,20 @@
 * [BLIP4Fashion_Fashion Captioning with BLIP Fine-tuning](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%5D%20BLIP4Fashion.pdf)
 * [캐글_피부암 탐지 이진 분류 Kaggle 대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/6%EA%B8%B0/%5B%EA%B3%A0%EA%B8%89%5D%20%EC%BA%90%EA%B8%80.pdf)
 
+## 7기
+① ML
+* [paylytics_데이터 사이언스 직군의 연봉 결정 요인](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BML%5D%20paylytics_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3%20%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%87%E1%85%A9%E1%86%BC%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB.pdf)
+* [제주삼다수_퇴근시간 버스 승차인원 예측](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BML%5D%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A1%E1%84%89%E1%85%AE_%E1%84%90%E1%85%AC%E1%84%80%E1%85%B3%E1%86%AB%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%87%E1%85%A5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AB%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8.pdf)
+
+② DL
+* [에피스윈_]()
+* [CTRonauts_웹 광고 클릭률 예측 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BDL%5D%20CTRonauts_%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%80%E1%85%AA%E1%86%BC%E1%84%80%E1%85%A9%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%A8%E1%84%85%E1%85%B2%E1%86%AF%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.pdf)
+* [Decipherer_난독화된 한글 리뷰 복원 AI 경진대회](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BDL%5D%20Decipherer_%E1%84%82%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%83%E1%85%AC%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.pdf)
+
+③ Research
+* [WhyFi_금융 용어 알리미](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20WhyFi_%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%20%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%A5%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5.pdf)
+* [ROCstars_ISIC 2024-Skin Cancer Detection with 3D-TBP](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20ROCstars_ISIC%202024-Skin%20Cancer%20Detection%20with%203D-TBP.pdf)
+* [테일즈러너_이미지 기반 동화 생성](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%E1%84%80%E1%85%B5/%5BResearch%5D%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%B3%E1%84%85%E1%85%A5%E1%84%82%E1%85%A5_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.pdf)
+
 <br/><br/> 
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
