@@ -91,19 +91,19 @@
 ## 8기
 ① ML
 * [EURONimals.mov](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20EURONimals.mov)
-* [EURONimals_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20EURONimals_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-* [KoNan_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20KoNan_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-* [따릉이_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20%E1%84%84%E1%85%A1%E1%84%85%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%B5_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [EURONimals_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20EURONimals_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* [KoNan_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20KoNan_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* [따릉이_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20%EB%94%B0%EB%A6%89%EC%9D%B4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ② DL
-* [RAG_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20RAG_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-* [동그라미팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B3%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-* [동그라미팀_시연영상.mov](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B3%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mov)
-* [참치팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%8E%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [RAG_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20RAG_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* [동그라미팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%EB%8F%99%EA%B7%B8%EB%9D%BC%EB%AF%B8%ED%8C%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* [동그라미팀_시연영상.mov](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%EB%8F%99%EA%B7%B8%EB%9D%BC%EB%AF%B8%ED%8C%80_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mov)
+* [참치팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%EC%B0%B8%EC%B9%98%ED%8C%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ③ Research
-* [다람쥐s_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%83%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B1s_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-* [오토냥_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9%E1%84%82%E1%85%A3%E1%86%BC_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [다람쥐s_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%EB%8B%A4%EB%9E%8C%EC%A5%90s_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+* [오토냥_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%EC%98%A4%ED%86%A0%EB%83%A5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ## 9기
 * [Euron 9th 프로젝트 발표.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/9%EA%B8%B0/Euron%209th%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C.pdf)
