@@ -88,4 +88,24 @@
 * [테일즈러너_이미지 기반 동화 생성](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/7%EA%B8%B0/%5BResearch%5D%20%ED%85%8C%EC%9D%BC%EC%A6%88%EB%9F%AC%EB%84%88_%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EA%B8%B0%EB%B0%98%20%EB%8F%99%ED%99%94%20%EC%83%9D%EC%84%B1.pdf)
 
 <br/><br/> 
+## 8기
+① DL
+* [DL] RAG_발표자료.pdf](8기/[DL] RAG_발표자료.pdf)
+* [DL] 동그라미팀_발표자료.pdf](8기/[DL] 동그라미팀_발표자료.pdf)
+* [DL] 동그라미팀_시연영상.mov](8기/[DL] 동그라미팀_시연영상.mov)
+* [DL] 참치팀_발표자료.pdf](8기/[DL] 참치팀_발표자료.pdf)
+
+② ML
+* [ML] EURONimals.mov](8기/[ML] EURONimals.mov)
+* [ML] EURONimals_발표자료.pdf](8기/[ML] EURONimals_발표자료.pdf)
+* [ML] KoNan_발표자료.pdf](8기/[ML] KoNan_발표자료.pdf)
+* [ML] 따릉이_발표자료.pdf](8기/[ML] 따릉이_발표자료.pdf)
+
+③ Research
+* [RESEARCH] 다람쥐s_발표자료.pdf](8기/[RESEARCH] 다람쥐s_발표자료.pdf)
+* [RESEARCH] 오토냥_발표자료.pdf](8기/[RESEARCH] 오토냥_발표자료.pdf)
+
+## 9기
+* [Euron 9th 프로젝트 발표.pdf](9기/Euron 9th 프로젝트 발표.pdf)
+
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
