@@ -108,4 +108,21 @@
 ## 9기
 * [Euron 9th 프로젝트 발표.pdf](9기/Euron 9th 프로젝트 발표.pdf)
 
+## 10기
+① DL
+* [DL] MOFA Intelligence.pdf](10기/[DL] MOFA Intelligence.pdf)
+* [DL] 북극_녹색화_구역_시점 탐지.pdf](10기/[DL] 북극_녹색화_구역_시점 탐지.pdf)
+* [DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.pdf](10기/[DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.pdf)
+* [DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.mp4](10기/[DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.mp4)
+
+② ML
+* [ML] ROGII_발표자료.pdf](10기/[ML] ROGII_발표자료.pdf)
+* [ML] libmatch_presentation.html](10기/[ML] libmatch_presentation.html)
+* [ML] 당뇨병 위험군 예측 및 자가진단 웹서비스_발표자료.pdf](10기/[ML] 당뇨병 위험군 예측 및 자가진단 웹서비스_발표자료.pdf)
+
+③ Research
+* [RESEARCH] MULTIMODAL HUMAN ACTION QA.pdf](10기/[RESEARCH] MULTIMODAL HUMAN ACTION QA.pdf)
+* [RESEARCH] 기상예보 기반 풍력발전량 예측.pdf](10기/[RESEARCH] 기상예보 기반 풍력발전량 예측.pdf)
+* [RESEARCH] 제조업 AI Agent 팀 발표 ppt.pdf](10기/[RESEARCH] 제조업 AI Agent 팀 발표 ppt.pdf)
+
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
