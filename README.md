@@ -90,39 +90,39 @@
 <br/><br/> 
 ## 8기
 ① DL
-* [DL] RAG_발표자료.pdf](8기/[DL] RAG_발표자료.pdf)
-* [DL] 동그라미팀_발표자료.pdf](8기/[DL] 동그라미팀_발표자료.pdf)
-* [DL] 동그라미팀_시연영상.mov](8기/[DL] 동그라미팀_시연영상.mov)
-* [DL] 참치팀_발표자료.pdf](8기/[DL] 참치팀_발표자료.pdf)
+* [RAG_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20RAG_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [동그라미팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B3%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [동그라미팀_시연영상.mov](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B3%E1%84%85%E1%85%A1%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mov)
+* [참치팀_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BDL%5D%20%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%8E%E1%85%B5%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ② ML
-* [ML] EURONimals.mov](8기/[ML] EURONimals.mov)
-* [ML] EURONimals_발표자료.pdf](8기/[ML] EURONimals_발표자료.pdf)
-* [ML] KoNan_발표자료.pdf](8기/[ML] KoNan_발표자료.pdf)
-* [ML] 따릉이_발표자료.pdf](8기/[ML] 따릉이_발표자료.pdf)
+* [EURONimals.mov](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20EURONimals.mov)
+* [EURONimals_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20EURONimals_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [KoNan_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20KoNan_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [따릉이_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BML%5D%20%E1%84%84%E1%85%A1%E1%84%85%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%B5_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ③ Research
-* [RESEARCH] 다람쥐s_발표자료.pdf](8기/[RESEARCH] 다람쥐s_발표자료.pdf)
-* [RESEARCH] 오토냥_발표자료.pdf](8기/[RESEARCH] 오토냥_발표자료.pdf)
+* [다람쥐s_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%83%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B1s_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [오토냥_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/8%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9%E1%84%82%E1%85%A3%E1%86%BC_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ## 9기
-* [Euron 9th 프로젝트 발표.pdf](9기/Euron 9th 프로젝트 발표.pdf)
+* [Euron 9th 프로젝트 발표.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/9%EA%B8%B0/Euron%209th%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C.pdf)
 
 ## 10기
 ① DL
-* [DL] MOFA Intelligence.pdf](10기/[DL] MOFA Intelligence.pdf)
-* [DL] 북극_녹색화_구역_시점 탐지.pdf](10기/[DL] 북극_녹색화_구역_시점 탐지.pdf)
-* [DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.pdf](10기/[DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.pdf)
-* [DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.mp4](10기/[DL] 학교안전사고_위험도_분석___통합_Risk_Score_산출_및_조건_검색형_분석_프로그램.mp4)
+* [MOFA Intelligence.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BDL%5D%20MOFA%20Intelligence.pdf)
+* [북극_녹색화_구역_시점%20탐지.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BDL%5D%20%E1%84%87%E1%85%AE%E1%86%A8%E1%84%80%E1%85%B3%E1%86%A8_%E1%84%82%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A2%E1%86%A8%E1%84%92%E1%85%AA_%E1%84%80%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%A8_%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5.pdf)
+* [학교안전사고_위험도_분석_프로그램.mp4](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BDL%5D%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8___%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8_Risk_Score_%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%AF_%E1%84%86%E1%85%B5%E1%86%BE_%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB_%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC_%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7.mp4)
+* [학교안전사고_위험도_분석_프로그램.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BDL%5D%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8___%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8_Risk_Score_%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%AF_%E1%84%86%E1%85%B5%E1%86%BE_%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB_%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%92%E1%85%A7%E1%86%BC_%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7.pdf)
 
 ② ML
-* [ML] ROGII_발표자료.pdf](10기/[ML] ROGII_발표자료.pdf)
-* [ML] libmatch_presentation.html](10기/[ML] libmatch_presentation.html)
-* [ML] 당뇨병 위험군 예측 및 자가진단 웹서비스_발표자료.pdf](10기/[ML] 당뇨병 위험군 예측 및 자가진단 웹서비스_발표자료.pdf)
+* [ROGII_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BML%5D%20ROGII_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+* [libmatch_presentation.html](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BML%5D%20libmatch_presentation.html)
+* [당뇨병 위험군 예측 및 자가진단 웹서비스_발표자료.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BML%5D%20%E1%84%83%E1%85%A1%E1%86%BC%E1%84%82%E1%85%AD%E1%84%87%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ③ Research
-* [RESEARCH] MULTIMODAL HUMAN ACTION QA.pdf](10기/[RESEARCH] MULTIMODAL HUMAN ACTION QA.pdf)
-* [RESEARCH] 기상예보 기반 풍력발전량 예측.pdf](10기/[RESEARCH] 기상예보 기반 풍력발전량 예측.pdf)
-* [RESEARCH] 제조업 AI Agent 팀 발표 ppt.pdf](10기/[RESEARCH] 제조업 AI Agent 팀 발표 ppt.pdf)
+* [MULTIMODAL HUMAN ACTION QA.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BRESEARCH%5D%20MULTIMODAL%20HUMAN%20ACTION%20QA.pdf)
+* [기상예보 기반 풍력발전량 예측.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A8%E1%84%87%E1%85%A9%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%91%E1%85%AE%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8.pdf)
+* [제조업 AI Agent 팀 발표 ppt.pdf](https://github.com/Ewha-Euron/EURON-PROJECT-/blob/master/10%EA%B8%B0/%5BRESEARCH%5D%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A9%E1%84%8B%E1%85%A5%E1%86%B8%20AI%20Agent%20%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20ppt.pdf)
 
 ※ 참고용으로만 확인하여 주시고, 해당 파일의 무단 배포/수정/복사는 금지합니다. 
